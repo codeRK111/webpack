@@ -1,0 +1,13 @@
+$bg-color : blue;
+$text-color: green;
+
+.button {
+     padding: 1rem;
+     background-color: $bg-color ;
+     color: white;
+}
+
+.desc {
+     font-size: 1.2rem;
+     color: $text-color;
+}
